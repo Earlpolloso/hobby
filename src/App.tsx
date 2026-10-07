@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
-import { Button } from "@/components/ui/button";
-import { Card, CardContent } from "@/components/ui/card";
+import { Button } from "@/index/ui/button";
+import { Card, CardContent } from "@/index/ui/card";
 import { Mail, Menu, X, Volleyball } from 'lucide-react';
 
 // Custom Facebook icon component
